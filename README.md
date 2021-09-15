@@ -1,4 +1,5 @@
 # GDSC-TASK1
 Image Slider made with CSS &amp; HTML ONLY
-![Screenshot (128)](https://user-images.githubusercontent.com/83290371/133389093-a37573ce-d1df-4ca7-8247-c373f3ac1691.png)
+![Screenshot (130)](https://user-images.githubusercontent.com/83290371/133390087-e375d2c5-11e7-488a-a508-41ac85e49f49.png)
+
 
